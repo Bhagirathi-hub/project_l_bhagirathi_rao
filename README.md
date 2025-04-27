@@ -18,7 +18,7 @@ Link: https://www.kaggle.com/datasets/gauravduttakiit/animal-classification-chal
 For this project, the image classification will be performed using the VGG11 architecture. 
 
 NOTE : In the data folder I have 2 subfolders as train_zebras and train_elephants
-I have trained 7000 random images from these folders spiltted as 3500 each for zebras and elephants
+I have trained 10000 random images from these folders spiltted as 5000 each for zebras and elephants
 
 Zebra-Elephant-Classification/
 ├── data/                          
