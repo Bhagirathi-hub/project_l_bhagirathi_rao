@@ -18,6 +18,7 @@ NOTE : In the data folder I have 2 subfolders as train_zebras and train_elephant
 I have trained 7000 random images from these folders spiltted as 3500 each for zebras and elephants
 
 Zebra-Elephant-Classification/
+
 │
 ├── data/                          
 │   ├── train_zebra/               
