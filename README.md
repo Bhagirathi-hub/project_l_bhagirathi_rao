@@ -1,5 +1,5 @@
 The checkpoint folder was too big to upload on the github repository hence I have uploaded it on my google drive in the folder named "final_weights.pth" 
-here is the link to my google drive : https://drive.google.com/file/d/12DgZdryxTDLMpmzzQY9ULdNlOW2URmz-/view?usp=sharing
+here is the link to my google drive : https://drive.google.com/drive/folders/1ajPJ9QkKJXd3XxdTam9AQocuKxtaW_qp?usp=sharing
 
 # project_l_bhagirathi_rao
 Project Proposal: Binary Classification of Serengeti Zebras and Elephants Using Image Processing 
