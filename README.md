@@ -77,13 +77,11 @@ Fully Connected Layers: To classify the images based on the extracted features.
 
 Softmax Activation: To output probabilities for each class (Zebra/Elephant).
 
-Training
-Training Script
 The training script train.py trains the model on the dataset and saves the trained model weights to a specified checkpoint directory.
 
 python train.py
 Parameters
-num_epochs: 5 (Number of epochs for training)
+num_epochs: 3 (Number of epochs for training)
 
 batch_size: 64 (Batch size for the data loader)
 
@@ -91,8 +89,8 @@ learning_rate: 0.001 (Learning rate for the optimizer)
 
 checkpoint_dir: Directory to save model weights (default: /content/drive/My Drive/project_l_bhagirathi_rao/checkpoints/final_weights.pth)
 
-python train.py --num_epochs 5 --batch_size 64 --learning_rate 0.001
-This will train the model for 5 epochs, using a batch size of 64 and a learning rate of 0.001.
+python train.py --num_epochs 3 --batch_size 64 --learning_rate 0.001
+This will train the model for 3 epochs, using a batch size of 64 and a learning rate of 0.001.
 
 Evaluation
 The model can be evaluated on a separate validation or test dataset. You can modify the code to load the saved weights and perform predictions.
