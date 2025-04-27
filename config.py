@@ -6,8 +6,8 @@ resize_y = 224
 input_channels = 3
 
 # Training settings
-batch_size = 32
-num_epochs = 10
+batch_size = 64
+num_epochs = 8
 learning_rate = 0.001
 
 # Class label mappings
