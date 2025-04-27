@@ -8,13 +8,18 @@ Both species are keystone herbivores that shape the landscape, making their iden
 studying species distribution patterns and ecological interactions. 
 By automating the identification process, this model will reduce manual effort in camera trap image 
 analysis and enhance the efficiency of biodiversity monitoring programs. 
+
 Input-Output Statement 
 • Input: Camera trap image of a zebra or elephant in .jpg format. 
 • Output: 
 o Classification label: 
 ▪ 0: Zebra 
 ▪ 1: Elephant 
+
 Data Source 
 The project will use the "Snapshot Serengeti" dataset available on Kaggle.  
 Link: https://www.kaggle.com/datasets/gauravduttakiit/animal-classification-challenge 
+
 For this project, the image classification will be performed using the VGG11 architecture. 
+
+NOTE : In the data folder I have 2 subfolders as train_zebras and train_elephants
