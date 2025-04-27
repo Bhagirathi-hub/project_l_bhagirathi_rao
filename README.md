@@ -23,8 +23,12 @@ Zebra-Elephant-Classification/
 ├── data/                          
 │   ├── train_zebra/               
 │   └── train_elephant/
+|
+|
 ├── checkpoints/                   
 │   └── final_weights.pth
+|
+|
 ├── model.py                       
 ├── train.py                       
 ├── dataset.py                    
