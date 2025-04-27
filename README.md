@@ -19,19 +19,19 @@ I have trained 7000 random images from these folders spiltted as 3500 each for z
 
 Zebra-Elephant-Classification/
 │
-├── data/                          # Dataset folder
-│   ├── train_zebra/               # Zebra images folder
-│   └── train_elephant/            # Elephant images folder
+├── data/                          
+│   ├── train_zebra/               
+│   └── train_elephant/            
 │
-├── checkpoints/                   # Folder for saving model weights
-│   └── final_weights.pth          # Trained model weights file
+├── checkpoints/                   
+│   └── final_weights.pth          
 │
-├── model.py                       # Model architecture (VGG11)
-├── train.py                       # Training script
-├── dataset.py                     # Custom dataset class
-├── config.py                      # Configuration settings (e.g., image resizing)
-├── predict.py                     # Prediction script
-├── README.md                      # Project description and usage
+├── model.py                       
+├── train.py                       
+├── dataset.py                    
+├── config.py                     
+├── predict.py                     
+├── README.md                      
 
 
 # Zebra and Elephant Classification Model
