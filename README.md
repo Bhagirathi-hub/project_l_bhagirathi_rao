@@ -17,6 +17,23 @@ For this project, the image classification will be performed using the VGG11 arc
 NOTE : In the data folder I have 2 subfolders as train_zebras and train_elephants
 I have trained 7000 random images from these folders spiltted as 3500 each for zebras and elephants
 
+Zebra-Elephant-Classification/
+│
+├── data/                          # Dataset folder
+│   ├── train_zebra/               # Zebra images folder
+│   └── train_elephant/            # Elephant images folder
+│
+├── checkpoints/                   # Folder for saving model weights
+│   └── final_weights.pth          # Trained model weights file
+│
+├── model.py                       # Model architecture (VGG11)
+├── train.py                       # Training script
+├── dataset.py                     # Custom dataset class
+├── config.py                      # Configuration settings (e.g., image resizing)
+├── predict.py                     # Prediction script
+├── README.md                      # Project description and usage
+
+
 # Zebra and Elephant Classification Model
 
 ## Overview
